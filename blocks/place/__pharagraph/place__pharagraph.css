@@ -1,0 +1,9 @@
+@media screen and (max-width: 424px) {
+  .place__pharagraph {
+    margin: 0 0 28px 0;
+  }
+
+  .place__pharagraph:last-child {
+    margin: 0;
+  }
+}

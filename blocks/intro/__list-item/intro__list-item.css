@@ -1,0 +1,14 @@
+.intro__list-item {
+  list-style-type: none;
+  color: #fff;
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 1.63;
+}
+
+@media screen and (max-width: 1023px) {
+  .intro__list-item {
+    line-height: 1.5;
+  }
+}
