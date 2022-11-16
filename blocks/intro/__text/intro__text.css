@@ -1,6 +1,6 @@
 .intro__text {
   color: #fff;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.63;
@@ -10,11 +10,5 @@
 @media screen and (max-width: 1279px) {
   .intro__text {
     margin: 42px 0 29px;
-  }
-}
-
-@media screen and (max-width: 1023px) {
-  .intro__text {
-    margin: 41px 0 29px;
   }
 }
