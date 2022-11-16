@@ -7,7 +7,6 @@
   line-height: 1.4;
   text-align: center;
   text-transform: uppercase;
-  letter-spacing: 2px;
   margin: 8px 0 0;
 }
 
@@ -27,5 +26,6 @@
     .lead__caption {
       margin: 8px 0 0 15px;
       font-size: 9px;
+      letter-spacing: 2px;
     }
   }
