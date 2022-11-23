@@ -4,11 +4,5 @@
   font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
   font-weight: 700;
   font-size: 12px;
-  line-height: 1.63;
-}
-
-@media screen and (max-width: 1023px) {
-  .intro__list-item {
-    line-height: 1.5;
-  }
+  line-height: 1.5;
 }

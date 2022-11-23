@@ -1,0 +1,38 @@
+.places__title {
+  color: #fff;
+  font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 1.06;
+  margin: 0 0 48px;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
+  grid-area: place__title;
+}
+
+@media screen and (max-width: 1023px) {
+  .places__title {
+    max-width: 330px;
+    font-size: 42px;
+    line-height: 1.1;
+    margin: 0 0 44px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+    .places__title {
+      max-width: 340px;
+      font-size: 32px;
+      line-height: 1.09;
+      margin: 0 16px 0;
+    }
+  }
+
+  @media screen and (max-width: 424px) {
+    .places__title {
+      max-width: 320px;
+    }
+  }

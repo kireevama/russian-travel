@@ -1,7 +1,10 @@
-.intro__span-accent {
+.places__url-heading {
   color: #fff;
   font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
   font-weight: 400;
   font-size: 12px;
-  line-height: 1.5;
+  line-height: 1;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin: 0 0 12px;
 }

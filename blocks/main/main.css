@@ -1,0 +1,28 @@
+.main {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 1279px) {
+  .main {
+    max-width: 1024px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .main {
+    max-width: 768px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .main {
+    max-width: 425px;
+  }
+}
+
+@media screen and (max-width: 424px) {
+  .main {
+    max-width: 320px;
+  }
+}
