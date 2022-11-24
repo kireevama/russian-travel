@@ -10,3 +10,9 @@
     flex-direction: column;
   }
 }
+
+@media screen and (max-width: 424px) {
+  .footer__list-link {
+    gap: 32px;
+  }
+}

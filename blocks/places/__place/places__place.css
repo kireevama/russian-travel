@@ -28,7 +28,7 @@
   .places__place {
     grid-template-columns: 425px 1fr;
     max-width: 425px;
-    row-gap: 50px;
+    row-gap: 32px;
     grid-template-areas:
     "place__title"
     "place__website"
